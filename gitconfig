@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jhon.efrainpr01@gmail.com
+	name = jhon poma
